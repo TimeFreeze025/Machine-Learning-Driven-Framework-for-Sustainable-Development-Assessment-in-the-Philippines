@@ -31,5 +31,3 @@ The study applies supervised machine learning algorithms to national-level socio
 - **Evaluation Metrics**: R² (Coefficient of Determination), RMSE (Root Mean Squared Error)
 
 ---
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
